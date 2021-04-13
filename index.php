@@ -152,7 +152,7 @@ $(document).ready(function() {
 </head>
 
 <body>
-    <h2>juta ebong jharu keno aro kisu niye asho</h2>
+    <h2>bhaloi to kaj kore dekha jay</h2>
 
     <div id="response"
         class="<?php if(!empty($type)) { echo $type . " display-block"; } ?>">
