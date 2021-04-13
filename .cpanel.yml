@@ -1,5 +1,5 @@
 ---
 deployment:
-      tasks:
-        - export DEPLOYPATH=/home/findbash/public_html/testing.findbashar.com
-        - /bin/cp -r * $DEPLOYPATH
+  tasks:
+    - export DEPLOYPATH=/home/findbash/public_html #Add /<sub_folder> if required
+    - /bin/cp -r * $DEPLOYPATH
