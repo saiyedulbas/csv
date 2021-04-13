@@ -152,7 +152,7 @@ $(document).ready(function() {
 </head>
 
 <body>
-    <h2>Import CSV file into My fgdsrtearfgaertywert</h2>
+    <h2>I</h2>
 
     <div id="response"
         class="<?php if(!empty($type)) { echo $type . " display-block"; } ?>">
